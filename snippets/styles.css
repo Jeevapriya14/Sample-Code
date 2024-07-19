@@ -1,0 +1,55 @@
+h1{
+    border: 8px solid blue;
+    text-align: center;
+    background-color: lightpink;
+    font-size: 50px;
+
+}
+body{
+    background-color: ivory;
+}
+.detail{
+    width: 70%;
+}
+.Me{
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+table,th,td{
+    border: 2px solid black;
+    border-radius: 5px;
+    border-spacing: 1px;
+}
+.table{
+    background-color: lightgrey;
+    width: 100%;
+    text-align: center;
+    padding:2px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+tr:hover{
+    background-color: black;
+    color: white;
+}
+.java{
+    
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.profile{
+    color: red;
+}
+h1:hover{
+    background-color: red;
+    color: white;
+}
